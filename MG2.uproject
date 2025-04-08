@@ -22,6 +22,10 @@
 			"Name": "ParallelcubeAudioAnalyzer",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c04ca3c256584bc1a7b94555e9ca0332"
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
