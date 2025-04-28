@@ -26,10 +26,6 @@
 		{
 			"Name": "OSC",
 			"Enabled": true
-		},
-		{
-			"Name": "HDRIBackdrop",
-			"Enabled": true
 		}
 	]
 }
